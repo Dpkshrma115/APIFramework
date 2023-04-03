@@ -1,0 +1,53 @@
+22:57:06.351 [main] %-5 level api.test.UserTest {36} - +++++++++++Creating User++++++++++++
+22:57:08.189 [main] %-5 level api.test.UserTest {36} - ++++++++++++UserCreated++++++++++++++
+22:57:08.202 [main] %-5 level api.test.UserTest {36} - ++++++++++++readUser++++++++++++++
+22:57:08.375 [main] %-5 level api.test.UserTest {36} - +++++++++++UserRead+++++++++++++++
+22:57:08.378 [main] %-5 level api.test.UserTest {36} - +++++++++++UpdateUser+++++++++++++++
+22:57:08.550 [main] %-5 level api.test.UserTest {36} - ++++++++++++UserUpdated++++++++++++++
+22:57:08.561 [main] %-5 level api.test.UserTest {36} - ++++++++++++DeleteUser++++++++++++++
+22:57:08.765 [main] %-5 level api.test.UserTest {36} - +++++++++++UserDeleted+++++++++++++++
+22:58:57.236 [main] %-5 level api.test.UserTest {36} - ++++++++debug++++++++++
+22:58:57.250 [main] %-5 level api.test.UserTest {36} - +++++++++++Creating User++++++++++++
+22:58:59.209 [main] %-5 level api.test.UserTest {36} - ++++++++++++UserCreated++++++++++++++
+22:58:59.221 [main] %-5 level api.test.UserTest {36} - ++++++++++++readUser++++++++++++++
+22:58:59.388 [main] %-5 level api.test.UserTest {36} - +++++++++++UserRead+++++++++++++++
+22:58:59.392 [main] %-5 level api.test.UserTest {36} - +++++++++++UpdateUser+++++++++++++++
+22:58:59.552 [main] %-5 level api.test.UserTest {36} - ++++++++++++UserUpdated++++++++++++++
+22:58:59.557 [main] %-5 level api.test.UserTest {36} - ++++++++++++DeleteUser++++++++++++++
+22:58:59.718 [main] %-5 level api.test.UserTest {36} - +++++++++++UserDeleted+++++++++++++++
+00:01:56.905 [main] %-5 level api.test.UserTest2 {36} - ++++++++debug++++++++++
+00:01:56.923 [main] %-5 level api.test.UserTest2 {36} - +++++++++++Creating User++++++++++++
+00:01:58.806 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++UserCreated++++++++++++++
+00:01:58.814 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++readUser++++++++++++++
+00:01:59.002 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UserRead+++++++++++++++
+00:01:59.005 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UpdateUser+++++++++++++++
+00:01:59.198 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++UserUpdated++++++++++++++
+00:01:59.206 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++DeleteUser++++++++++++++
+00:01:59.448 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UserDeleted+++++++++++++++
+00:02:42.934 [main] %-5 level api.test.UserTest2 {36} - ++++++++debug++++++++++
+00:02:42.949 [main] %-5 level api.test.UserTest2 {36} - +++++++++++Creating User++++++++++++
+00:02:44.745 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++UserCreated++++++++++++++
+00:02:44.760 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++readUser++++++++++++++
+00:02:44.965 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UserRead+++++++++++++++
+00:02:44.977 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UpdateUser+++++++++++++++
+00:02:45.203 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++UserUpdated++++++++++++++
+00:02:45.212 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++DeleteUser++++++++++++++
+00:02:45.422 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UserDeleted+++++++++++++++
+00:17:01.232 [main] %-5 level api.test.UserTest {36} - ++++++++debug++++++++++
+00:17:01.236 [main] %-5 level api.test.UserTest {36} - +++++++++++Creating User++++++++++++
+00:17:01.425 [main] %-5 level api.test.UserTest {36} - ++++++++++++UserCreated++++++++++++++
+00:17:01.426 [main] %-5 level api.test.UserTest {36} - ++++++++++++readUser++++++++++++++
+00:17:01.611 [main] %-5 level api.test.UserTest {36} - +++++++++++UserRead+++++++++++++++
+00:17:01.614 [main] %-5 level api.test.UserTest {36} - +++++++++++UpdateUser+++++++++++++++
+00:17:01.801 [main] %-5 level api.test.UserTest {36} - ++++++++++++UserUpdated++++++++++++++
+00:17:01.803 [main] %-5 level api.test.UserTest {36} - ++++++++++++DeleteUser++++++++++++++
+00:17:01.977 [main] %-5 level api.test.UserTest {36} - +++++++++++UserDeleted+++++++++++++++
+00:30:49.137 [main] %-5 level api.test.UserTest2 {36} - ++++++++debug++++++++++
+00:30:49.152 [main] %-5 level api.test.UserTest2 {36} - +++++++++++Creating User++++++++++++
+00:30:51.076 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++UserCreated++++++++++++++
+00:30:51.092 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++readUser++++++++++++++
+00:30:51.281 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UserRead+++++++++++++++
+00:30:51.285 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UpdateUser+++++++++++++++
+00:30:51.437 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++UserUpdated++++++++++++++
+00:30:51.444 [main] %-5 level api.test.UserTest2 {36} - ++++++++++++DeleteUser++++++++++++++
+00:30:51.629 [main] %-5 level api.test.UserTest2 {36} - +++++++++++UserDeleted+++++++++++++++
